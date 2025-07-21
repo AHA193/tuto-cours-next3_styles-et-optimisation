@@ -1,5 +1,5 @@
 // import React from 'react'
-
+ 
 import "./Card.scss"
 
 function Card() {
@@ -9,5 +9,4 @@ function Card() {
 }
 
 export default Card
-
 
